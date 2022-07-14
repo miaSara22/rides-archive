@@ -1,3 +1,3 @@
 # Rides Archive
 
-simple archive using Singleton design pattern, conected to MySQL db.
+simple archive using Singleton design pattern, connected to MySQL db.
